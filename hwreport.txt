@@ -1,4 +1,3 @@
-#hwreport
 HOSTNAME=
 MEMORY=
 BIOS=
